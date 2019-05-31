@@ -1,0 +1,33 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  display: -ms-grid;
+  display: grid;
+  text-align: center;
+  height: 30vh;
+  width: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: #472060;
+}
+
+.header h1 {
+  color: white;
+  font-size: 80px;
+}
+
+.header p {
+  color: white;
+  font-size: 40px;
+}
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,26 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  display: grid;
+  text-align: center;
+  height: 30vh;
+  width: 100%;
+  align-items: center;
+  background: rgb(71, 32, 96);
+  h1 {
+    color: white;
+    font-size: 80px;
+  }
+  p {
+    color: white;
+    font-size: 40px;
+  }
+}
